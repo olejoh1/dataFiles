@@ -1,0 +1,2893 @@
+{
+  "AccountplanProperties": {},
+  "Accounts": [
+    {
+      "AccountProperties": {},
+      "AccNo": "1000",
+      "Description": "Forskning og utvikling ",
+      "RefAccSourceSystem": "1000",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1020",
+      "Description": "Konsesjoner",
+      "RefAccSourceSystem": "1020",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1030",
+      "Description": "Patenter",
+      "RefAccSourceSystem": "1030",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1040",
+      "Description": "Lisenser",
+      "RefAccSourceSystem": "1040",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1050",
+      "Description": "Varemerker",
+      "RefAccSourceSystem": "1050",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1060",
+      "Description": "Andre rettigheter",
+      "RefAccSourceSystem": "1060",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1070",
+      "Description": "Utsatt skattefordel",
+      "RefAccSourceSystem": "1070",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1080",
+      "Description": "Goodwill (S-gruppe B)",
+      "RefAccSourceSystem": "1080",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1100",
+      "Description": "Forretningsbygg (S-gruppe I)",
+      "RefAccSourceSystem": "1100",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1110",
+      "Description": "Bygg og anlegg, hotell ol (S-gruppe H)",
+      "RefAccSourceSystem": "1110",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1117",
+      "Description": "Elektroteknisk utrustning i kraftforetak mv. (S-gruppe G)",
+      "RefAccSourceSystem": "1117",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1120",
+      "Description": "Bygningsmessige anlegg (S-gruppe H)",
+      "RefAccSourceSystem": "1120",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1125",
+      "Description": "Fast teknisk installasjon i bygninger, (S-gruppe J)",
+      "RefAccSourceSystem": "1125",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1130",
+      "Description": " Bygg, anlegg, maskiner under bygging - til eget bruk (S-gruppe H)",
+      "RefAccSourceSystem": "1130",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1140",
+      "Description": "Jord, grøfter, frukttrær mv",
+      "RefAccSourceSystem": "1140",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1145",
+      "Description": "Skog og grunn",
+      "RefAccSourceSystem": "1145",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1150",
+      "Description": "Tomter og andre grunnarealer",
+      "RefAccSourceSystem": "1150",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1160",
+      "Description": "Boliger inkl. tomter",
+      "RefAccSourceSystem": "1160",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1170",
+      "Description": "Ikke avskrivbar arbeiderbolig, utleiehytter mv",
+      "RefAccSourceSystem": "1170",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1180",
+      "Description": "Investeringseiendommer",
+      "RefAccSourceSystem": "1180",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1190",
+      "Description": "Andre anleggsmidler  (Ikke avskrivbare)",
+      "RefAccSourceSystem": "1190",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1200",
+      "Description": "Personbiler, maskiner, inventar (S-gruppe D)",
+      "RefAccSourceSystem": "1200",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1210",
+      "Description": "Maskiner og anlegg under utførelse (S-gruppe D)",
+      "RefAccSourceSystem": "1210",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1220",
+      "Description": "Skip, rigger mv (S-gruppe E)",
+      "RefAccSourceSystem": "1220",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1229",
+      "Description": "Fly (S-gruppe F)",
+      "RefAccSourceSystem": "1229",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1230",
+      "Description": "Vare- og lastebiler, busser og drosjebiler o.l. (S-gruppe C1)",
+      "RefAccSourceSystem": "1230",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1239",
+      "Description": "Varebiler med nullutslipp (S-gruppe C2)",
+      "RefAccSourceSystem": "1239",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1240",
+      "Description": "Andre transportmidler (S-gruppe C1)",
+      "RefAccSourceSystem": "1240",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1250",
+      "Description": "Inventar (S-gruppe D)",
+      "RefAccSourceSystem": "1250",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1260",
+      "Description": "Fast bygningsinventar med annen avskrivningstid enn bygning (S-gruppe D)",
+      "RefAccSourceSystem": "1260",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1270",
+      "Description": "Verktøy mv. (S-gruppe D)",
+      "RefAccSourceSystem": "1270",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1280",
+      "Description": "Kontormaskiner (S-gruppe A)",
+      "RefAccSourceSystem": "1280",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1290",
+      "Description": "Andre driftsmidler  (Ikke avskrivbare)",
+      "RefAccSourceSystem": "1290",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1291",
+      "Description": "Leasing (ikke skattemessig aktivert)",
+      "RefAccSourceSystem": "1291",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1297",
+      "Description": "Aktiva som KUN avskrives R-lineært ",
+      "RefAccSourceSystem": "1297",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1299",
+      "Description": "Ikke avskrivbare driftsmidler",
+      "RefAccSourceSystem": "1299",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1300",
+      "Description": "Investeringer i datterselskaper",
+      "RefAccSourceSystem": "1300",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1310",
+      "Description": "Investeringer i annet foretak i samme konsern",
+      "RefAccSourceSystem": "1310",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1315",
+      "Description": "Investeringer i deltakerfastsatte datter - og konsernselskap",
+      "RefAccSourceSystem": "1315",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1320",
+      "Description": "Lån til foretak i samme konsern",
+      "RefAccSourceSystem": "1320",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1330",
+      "Description": "Investeringer i tilknyttet selskap",
+      "RefAccSourceSystem": "1330",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1331",
+      "Description": "Investeringer i deltakerfastsatte tilknyttede selskap",
+      "RefAccSourceSystem": "1331",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1340",
+      "Description": "Lån til tilknyttet selskap og felles kontrollert virksomhet",
+      "RefAccSourceSystem": "1340",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1350",
+      "Description": "Investeringer i aksjer og andeler",
+      "RefAccSourceSystem": "1350",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1359",
+      "Description": "Investeringer i aksjer og andeler, utenlandske",
+      "RefAccSourceSystem": "1359",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1360",
+      "Description": "Obligasjoner",
+      "RefAccSourceSystem": "1360",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1370",
+      "Description": "Fordringer på personlige eiere, styremedlemmer mv",
+      "RefAccSourceSystem": "1370",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1380",
+      "Description": "Fordringer på ansatte",
+      "RefAccSourceSystem": "1380",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1390",
+      "Description": "Andre fordringer",
+      "RefAccSourceSystem": "1390",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1398",
+      "Description": "Langsiktige fordringer i utenlandsk valuta",
+      "RefAccSourceSystem": "1398",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1399",
+      "Description": "Forskuddsbetalt pensjonspremie",
+      "RefAccSourceSystem": "1399",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1400",
+      "Description": "Beholdning råvarer og innkjøpte halvfabrikata",
+      "RefAccSourceSystem": "1400",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1409",
+      "Description": "Beh.endring varer og halvfabrikata",
+      "RefAccSourceSystem": "1409",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1420",
+      "Description": "Beholdning varer under tilvirkning",
+      "RefAccSourceSystem": "1420",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1429",
+      "Description": "Beh.endring varer under tilvirkning",
+      "RefAccSourceSystem": "1429",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1440",
+      "Description": "Beholdning ferdige egentilvirkede varer",
+      "RefAccSourceSystem": "1440",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1449",
+      "Description": "Beh.endring ferdigproduserte varer",
+      "RefAccSourceSystem": "1449",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1460",
+      "Description": "Beholdning innkjøpte varer for videresalg",
+      "RefAccSourceSystem": "1460",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1469",
+      "Description": "Beh.endring innkjøpte varer",
+      "RefAccSourceSystem": "1469",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1470",
+      "Description": "Buskap (jordbruk)",
+      "RefAccSourceSystem": "1470",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1475",
+      "Description": "Selvproduserte varer (jordbruk)",
+      "RefAccSourceSystem": "1475",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1480",
+      "Description": "Forskuddsbetaling til leverandører (varer)",
+      "RefAccSourceSystem": "1480",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1490",
+      "Description": "Biologiske eiendeler",
+      "RefAccSourceSystem": "1490",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1500",
+      "Description": "Kundefordringer eksklusive på selskap i samme konsern",
+      "RefAccSourceSystem": "1500",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1530",
+      "Description": "Opptjente ikke fakturerte driftsinntekter",
+      "RefAccSourceSystem": "1530",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1539",
+      "Description": "Tilvirkningskontrakter løpende avregning",
+      "RefAccSourceSystem": "1539",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1550",
+      "Description": "Kundefordringer på selskap i samme konsern",
+      "RefAccSourceSystem": "1550",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1560",
+      "Description": "Andre fordringer på selskap i konsern",
+      "RefAccSourceSystem": "1560",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1565",
+      "Description": "Kortsiktige fordringer mot personlige eiere/styremedlemmer o.l.",
+      "RefAccSourceSystem": "1565",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1570",
+      "Description": "Andre fordringer",
+      "RefAccSourceSystem": "1570",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1579",
+      "Description": "Tilgode merverdiavgift",
+      "RefAccSourceSystem": "1579",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1580",
+      "Description": "Avsetning tap på fordringer",
+      "RefAccSourceSystem": "1580",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1670",
+      "Description": "Krav på offentlige tilskudd",
+      "RefAccSourceSystem": "1670",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1700",
+      "Description": "Forskuddsbetalt leie",
+      "RefAccSourceSystem": "1700",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1710",
+      "Description": "Forskuddsbetalt rente",
+      "RefAccSourceSystem": "1710",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1740",
+      "Description": "Andre forskuddsbetalte driftskostnader",
+      "RefAccSourceSystem": "1740",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1750",
+      "Description": "Påløpt leie",
+      "RefAccSourceSystem": "1750",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1760",
+      "Description": "Påløpt rente",
+      "RefAccSourceSystem": "1760",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1780",
+      "Description": "Krav på innbetaling av selskapskapital",
+      "RefAccSourceSystem": "1780",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1800",
+      "Description": "Aksjer og andeler i foretak i samme konsern",
+      "RefAccSourceSystem": "1800",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1810",
+      "Description": "Markedsbaserte aksjer",
+      "RefAccSourceSystem": "1810",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1820",
+      "Description": "Andre aksjer",
+      "RefAccSourceSystem": "1820",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1829",
+      "Description": "Andre aksjer, utenlandske",
+      "RefAccSourceSystem": "1829",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1830",
+      "Description": "Markedsbaserte obligasjoner",
+      "RefAccSourceSystem": "1830",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1840",
+      "Description": "Andre obligasjoner",
+      "RefAccSourceSystem": "1840",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1850",
+      "Description": "Markedsbaserte sertifikater",
+      "RefAccSourceSystem": "1850",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1860",
+      "Description": "Andre sertifikater",
+      "RefAccSourceSystem": "1860",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1870",
+      "Description": "Andre markedsbaserte finansielle instrumenter",
+      "RefAccSourceSystem": "1870",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1880",
+      "Description": "Andre finansielle instrumenter",
+      "RefAccSourceSystem": "1880",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1900",
+      "Description": "Kontanter",
+      "RefAccSourceSystem": "1900",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1920",
+      "Description": "Bankinnskudd",
+      "RefAccSourceSystem": "1920",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1928",
+      "Description": "Bankinnskudd (bundet)",
+      "RefAccSourceSystem": "1928",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1929",
+      "Description": "Bankinnskudd (utenlandske banker)",
+      "RefAccSourceSystem": "1929",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "1950",
+      "Description": "Bankinnskudd for skattetrekk",
+      "RefAccSourceSystem": "1950",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2000",
+      "Description": "Aksjekapital",
+      "RefAccSourceSystem": "2000",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2010",
+      "Description": "Egne aksjer",
+      "RefAccSourceSystem": "2010",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2020",
+      "Description": "Overkurs",
+      "RefAccSourceSystem": "2020",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2030",
+      "Description": "Innskutt annen egenkapital",
+      "RefAccSourceSystem": "2030",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2036",
+      "Description": "Stiftelsesutgifter",
+      "RefAccSourceSystem": "2036",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2040",
+      "Description": "Fond for vurderingsforskjeller",
+      "RefAccSourceSystem": "2040",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2041",
+      "Description": "Fond for vurderingsforskjeller, deltakerfastsatte selskap",
+      "RefAccSourceSystem": "2041",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2045",
+      "Description": "Fond for urealiserte gevinster",
+      "RefAccSourceSystem": "2045",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2050",
+      "Description": "Annen egenkapital",
+      "RefAccSourceSystem": "2050",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2054",
+      "Description": "Avsatt utbytte",
+      "RefAccSourceSystem": "2054",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2080",
+      "Description": "Udekket tap",
+      "RefAccSourceSystem": "2080",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2100",
+      "Description": "Pensjonsforpliktelser",
+      "RefAccSourceSystem": "2100",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2120",
+      "Description": "Utsatt skatt",
+      "RefAccSourceSystem": "2120",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2130",
+      "Description": "Derivater",
+      "RefAccSourceSystem": "2130",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2160",
+      "Description": "Uopptjent inntekt",
+      "RefAccSourceSystem": "2160",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2180",
+      "Description": "Andre avsetninger for forpliktelser",
+      "RefAccSourceSystem": "2180",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2200",
+      "Description": "Konvertible lån",
+      "RefAccSourceSystem": "2200",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2210",
+      "Description": "Obligasjonslån",
+      "RefAccSourceSystem": "2210",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2220",
+      "Description": "Gjeld til kredittinstitusjoner",
+      "RefAccSourceSystem": "2220",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2230",
+      "Description": "Leasinggjeld (ikke skattemessig aktivert)",
+      "RefAccSourceSystem": "2230",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2240",
+      "Description": "Pantelån",
+      "RefAccSourceSystem": "2240",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2250",
+      "Description": "Gjeld til ansatte og personlige eiere",
+      "RefAccSourceSystem": "2250",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2260",
+      "Description": "Gjeld til selskap i samme konsern",
+      "RefAccSourceSystem": "2260",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2270",
+      "Description": "Andre valutalån",
+      "RefAccSourceSystem": "2270",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2280",
+      "Description": "Stille interessentinnskudd og ansvarlig lån",
+      "RefAccSourceSystem": "2280",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2290",
+      "Description": "Annen langsiktig gjeld",
+      "RefAccSourceSystem": "2290",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2300",
+      "Description": "Konvertible lån",
+      "RefAccSourceSystem": "2300",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2320",
+      "Description": "Sertifikatlån",
+      "RefAccSourceSystem": "2320",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2330",
+      "Description": "Derivater",
+      "RefAccSourceSystem": "2330",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2340",
+      "Description": "Andre valutalån",
+      "RefAccSourceSystem": "2340",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2360",
+      "Description": "Byggelån",
+      "RefAccSourceSystem": "2360",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {
+        "alternateActivated": "true"
+      },
+      "AccNo": "2380",
+      "Description": "Kassakreditt",
+      "RefAccSourceSystem": "2380",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2400",
+      "Description": "Leverandørgjeld",
+      "RefAccSourceSystem": "2400",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2460",
+      "Description": "Leverandørgjeld til selskap i samme konsern",
+      "RefAccSourceSystem": "2460",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2500",
+      "Description": "Betalbar skatt, ikke fastsatt",
+      "RefAccSourceSystem": "2500",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2510",
+      "Description": "Betalbar skatt, fastsatt",
+      "RefAccSourceSystem": "2510",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2600",
+      "Description": "Forskuddstrekk",
+      "RefAccSourceSystem": "2600",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2610",
+      "Description": "Påleggstrekk",
+      "RefAccSourceSystem": "2610",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2620",
+      "Description": "Bidragstrekk",
+      "RefAccSourceSystem": "2620",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2630",
+      "Description": "Trygdetrekk",
+      "RefAccSourceSystem": "2630",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2640",
+      "Description": "Forsikringstrekk",
+      "RefAccSourceSystem": "2640",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2650",
+      "Description": "Trukket fagforeningskontigent",
+      "RefAccSourceSystem": "2650",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2690",
+      "Description": "Andre trekk",
+      "RefAccSourceSystem": "2690",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2700",
+      "Description": "Utgående merverdiavgift",
+      "RefAccSourceSystem": "2700",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2710",
+      "Description": "Inngående merverdiavgift",
+      "RefAccSourceSystem": "2710",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {
+        "alternateActivated": "true"
+      },
+      "AccNo": "2740",
+      "Description": "Oppgjørskonto merverdiavgift",
+      "RefAccSourceSystem": "2740",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2770",
+      "Description": "Skyldig arbeidsgiveravgift",
+      "RefAccSourceSystem": "2770",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2780",
+      "Description": "Påløpt arbeidsgiveravgift",
+      "RefAccSourceSystem": "2780",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2790",
+      "Description": "Andre skyldige offentlige avgifter",
+      "RefAccSourceSystem": "2790",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2800",
+      "Description": "Avsatt utbytte",
+      "RefAccSourceSystem": "2800",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2900",
+      "Description": "Forskudd fra kunder",
+      "RefAccSourceSystem": "2900",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2910",
+      "Description": "Gjeld til ansatte og personlige aksjonærer",
+      "RefAccSourceSystem": "2910",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2920",
+      "Description": "Gjeld til selskap i samme konsern",
+      "RefAccSourceSystem": "2920",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2930",
+      "Description": "Lønn",
+      "RefAccSourceSystem": "2930",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2940",
+      "Description": "Feriepenger",
+      "RefAccSourceSystem": "2940",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2949",
+      "Description": "Utbetalte feriepenger",
+      "RefAccSourceSystem": "2949",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2950",
+      "Description": "Påløpt rente",
+      "RefAccSourceSystem": "2950",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2960",
+      "Description": "Påløpt kostnad og forskuddsbetalt inntekt",
+      "RefAccSourceSystem": "2960",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2967",
+      "Description": "Skyldig styrehonorar",
+      "RefAccSourceSystem": "2967",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2968",
+      "Description": "Skyldig, ikke opplysningspliktig honorar",
+      "RefAccSourceSystem": "2968",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2969",
+      "Description": "Forskuddsbetalt inntekt",
+      "RefAccSourceSystem": "2969",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2970",
+      "Description": "Uopptjent inntekt",
+      "RefAccSourceSystem": "2970",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2978",
+      "Description": "Fremtidig garantiytelse",
+      "RefAccSourceSystem": "2978",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2979",
+      "Description": "Fremtidig serviceytelse",
+      "RefAccSourceSystem": "2979",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2980",
+      "Description": "Avsetninger for forpliktelser",
+      "RefAccSourceSystem": "2980",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2986",
+      "Description": "Avsetning til tap på kontrakter mv",
+      "RefAccSourceSystem": "2986",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2987",
+      "Description": "GRS-avsetning, garanti- og service",
+      "RefAccSourceSystem": "2987",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2988",
+      "Description": "GRS-avsetning, revisjonshonorar",
+      "RefAccSourceSystem": "2988",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2989",
+      "Description": "GRS-avsetning, regnskapshonorar",
+      "RefAccSourceSystem": "2989",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2990",
+      "Description": "Annen kortsiktig gjeld",
+      "RefAccSourceSystem": "2990",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "2999",
+      "Description": "Kortsiktig gjeld, ikke formuefradrag",
+      "RefAccSourceSystem": "2999",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3000",
+      "Description": "Salgsinntekt, avgiftspliktig",
+      "RefAccSourceSystem": "3000",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3020",
+      "Description": "Salgsinntekt tjenester, avgiftspliktig",
+      "RefAccSourceSystem": "3020",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3060",
+      "Description": "Uttak av varer",
+      "RefAccSourceSystem": "3060",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3080",
+      "Description": "Rabatt og annen salgsinntektsreduksjon",
+      "RefAccSourceSystem": "3080",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3100",
+      "Description": "Salgsinntekt, avgiftsfri",
+      "RefAccSourceSystem": "3100",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3120",
+      "Description": "Salgsinntekt tjenester, avgiftsfri",
+      "RefAccSourceSystem": "3120",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3160",
+      "Description": "Uttak av varer",
+      "RefAccSourceSystem": "3160",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3180",
+      "Description": "Rabatt og annen salgsinntektsreduksjon",
+      "RefAccSourceSystem": "3180",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3200",
+      "Description": "Salgsinntekt, utenfor avgiftsområdet",
+      "RefAccSourceSystem": "3200",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3220",
+      "Description": "Salgsinntekt tjenester, utenfor avgiftsområdet",
+      "RefAccSourceSystem": "3220",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3260",
+      "Description": "Uttak av varer",
+      "RefAccSourceSystem": "3260",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3280",
+      "Description": "Rabatt og annen salgsinntektsreduksjon",
+      "RefAccSourceSystem": "3280",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3300",
+      "Description": "Spesiel offentlig avgift for tilvirkede/solgte varer",
+      "RefAccSourceSystem": "3300",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3400",
+      "Description": "Spesielt offentlig tilskudd for tilvirkede/solgte varer",
+      "RefAccSourceSystem": "3400",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3440",
+      "Description": "Spesielle offentlige tilskudd for tjenester",
+      "RefAccSourceSystem": "3440",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3500",
+      "Description": "Garanti",
+      "RefAccSourceSystem": "3500",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3510",
+      "Description": "Service",
+      "RefAccSourceSystem": "3510",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3600",
+      "Description": "Leieinntekt fast eiendom",
+      "RefAccSourceSystem": "3600",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3610",
+      "Description": "Leieinntekt andre varige driftsmidler",
+      "RefAccSourceSystem": "3610",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3620",
+      "Description": "Annen leieinntekt",
+      "RefAccSourceSystem": "3620",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3700",
+      "Description": "Provisjonsinntekt",
+      "RefAccSourceSystem": "3700",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3850",
+      "Description": "Verdiendringer investeringseiendommer",
+      "RefAccSourceSystem": "3850",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3870",
+      "Description": "Verdiendringer biologiske eiendeler",
+      "RefAccSourceSystem": "3870",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3880",
+      "Description": "Gevinst ved avgang av immaterielle eiendeler og varige driftsmidler",
+      "RefAccSourceSystem": "3880",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3885",
+      "Description": "Gevinst ved avgang av finansielle anleggsmidler",
+      "RefAccSourceSystem": "3885",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3900",
+      "Description": "Annen driftsrelatert inntekt",
+      "RefAccSourceSystem": "3900",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "3909",
+      "Description": "Annen driftsinntekt, skattefri ",
+      "RefAccSourceSystem": "3909",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4000",
+      "Description": "Innkjøp av råvarer og halvfabrikata",
+      "RefAccSourceSystem": "4000",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4060",
+      "Description": "Frakt, toll og spedisjon",
+      "RefAccSourceSystem": "4060",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4070",
+      "Description": "Innkjøpsprisreduksjon",
+      "RefAccSourceSystem": "4070",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4090",
+      "Description": "Beh.endring varer og halvfabrikata",
+      "RefAccSourceSystem": "4090",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4100",
+      "Description": "Innkjøp av varer under tilvirkning",
+      "RefAccSourceSystem": "4100",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4160",
+      "Description": "Frakt, toll og spedisjon",
+      "RefAccSourceSystem": "4160",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4170",
+      "Description": "Innkjøpsprisreduksjon",
+      "RefAccSourceSystem": "4170",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4190",
+      "Description": "Beh.endring varer under tilvirkning",
+      "RefAccSourceSystem": "4190",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4200",
+      "Description": "Innkjøp ferdig tilvirkede varer",
+      "RefAccSourceSystem": "4200",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4260",
+      "Description": "Frakt, toll og spedisjon",
+      "RefAccSourceSystem": "4260",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4270",
+      "Description": "Innkjøpsprisreduksjon",
+      "RefAccSourceSystem": "4270",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4290",
+      "Description": "Beh.endring ferdigproduserte varer",
+      "RefAccSourceSystem": "4290",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4300",
+      "Description": "Innkjøp varer for videresalg",
+      "RefAccSourceSystem": "4300",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4360",
+      "Description": "Frakt, toll og spedisjon",
+      "RefAccSourceSystem": "4360",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4370",
+      "Description": "Innkjøpsprisreduksjon",
+      "RefAccSourceSystem": "4370",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4390",
+      "Description": "Beh.endring innkjøpte varer",
+      "RefAccSourceSystem": "4390",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4500",
+      "Description": "Fremmedytelse og underentreprise",
+      "RefAccSourceSystem": "4500",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4590",
+      "Description": "Beholdningsendring",
+      "RefAccSourceSystem": "4590",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "4995",
+      "Description": "Beholdningsendring av egentilvirkede anleggsmidler",
+      "RefAccSourceSystem": "4995",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5000",
+      "Description": "Lønn til ansatte",
+      "RefAccSourceSystem": "5000",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5080",
+      "Description": "Avsetning feriepenger",
+      "RefAccSourceSystem": "5080",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5090",
+      "Description": "Periodiseringskonto lønn",
+      "RefAccSourceSystem": "5090",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5100",
+      "Description": "Lønn til ansatte",
+      "RefAccSourceSystem": "5100",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5180",
+      "Description": "Avsetning feriepenger",
+      "RefAccSourceSystem": "5180",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5190",
+      "Description": "Periodiseringskonto lønn",
+      "RefAccSourceSystem": "5190",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5200",
+      "Description": "Fri bil",
+      "RefAccSourceSystem": "5200",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5210",
+      "Description": "Fri telefon",
+      "RefAccSourceSystem": "5210",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5220",
+      "Description": "Fri avis",
+      "RefAccSourceSystem": "5220",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5230",
+      "Description": "Fri losji og bolig",
+      "RefAccSourceSystem": "5230",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5240",
+      "Description": "Rentefordel",
+      "RefAccSourceSystem": "5240",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5280",
+      "Description": "Annen fordel i arbeidsforhold",
+      "RefAccSourceSystem": "5280",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5290",
+      "Description": "Motkonto for gruppe 52",
+      "RefAccSourceSystem": "5290",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5300",
+      "Description": "Tantieme",
+      "RefAccSourceSystem": "5300",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5330",
+      "Description": "Godtgjørelse til styre- og bedriftsforsamling",
+      "RefAccSourceSystem": "5330",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5390",
+      "Description": "Annen opplysningspliktig godtgjørelse",
+      "RefAccSourceSystem": "5390",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5400",
+      "Description": "Arbeidsgiveravgift",
+      "RefAccSourceSystem": "5400",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5405",
+      "Description": "Arbeidsgiveravgift av påløpte feriepenger",
+      "RefAccSourceSystem": "5405",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5420",
+      "Description": "Opplysningspliktig pensjonskostnad",
+      "RefAccSourceSystem": "5420",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5500",
+      "Description": "Annen kostnadsgodtgjørelse",
+      "RefAccSourceSystem": "5500",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5600",
+      "Description": "Arbeidsgodtgjørelse til eiere i ANS mv.",
+      "RefAccSourceSystem": "5600",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5700",
+      "Description": "Lærlingetilskudd",
+      "RefAccSourceSystem": "5700",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5800",
+      "Description": "Refusjon av sykepenger",
+      "RefAccSourceSystem": "5800",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5820",
+      "Description": "Refusjon av arbeidsgiveravgift",
+      "RefAccSourceSystem": "5820",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5890",
+      "Description": "Annen refusjon",
+      "RefAccSourceSystem": "5890",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5900",
+      "Description": "Gave til ansatte",
+      "RefAccSourceSystem": "5900",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5910",
+      "Description": "Kantinekostnad",
+      "RefAccSourceSystem": "5910",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5920",
+      "Description": "Yrkesskadeforsikring",
+      "RefAccSourceSystem": "5920",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5930",
+      "Description": "Annen ikke arbeidsgiveravgiftspliktig forsikring",
+      "RefAccSourceSystem": "5930",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5940",
+      "Description": "LO/NHO-ordningen",
+      "RefAccSourceSystem": "5940",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5990",
+      "Description": "Annen personalkostnad",
+      "RefAccSourceSystem": "5990",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "5999",
+      "Description": "Sosial utgift, ikke fradragsberettiget",
+      "RefAccSourceSystem": "5999",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6000",
+      "Description": "Avskrivning på bygninger og annen fast eiendom",
+      "RefAccSourceSystem": "6000",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6010",
+      "Description": "Avskrivning på transportmidler, maskiner og inventar",
+      "RefAccSourceSystem": "6010",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6020",
+      "Description": "Avskrivning på immaterielle eiendeler",
+      "RefAccSourceSystem": "6020",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6050",
+      "Description": "Nedskrivning av varige driftsmidler og immaterielle eiendeler",
+      "RefAccSourceSystem": "6050",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6100",
+      "Description": "Frakt, transportkostnad og forsikring ved varesalg",
+      "RefAccSourceSystem": "6100",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6110",
+      "Description": "Toll og spedisjonskostnad ved vareforsendelse",
+      "RefAccSourceSystem": "6110",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6190",
+      "Description": "Annen frakt- og transportkostnad ved salg",
+      "RefAccSourceSystem": "6190",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6200",
+      "Description": "Elektrisitet",
+      "RefAccSourceSystem": "6200",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6210",
+      "Description": "Gass",
+      "RefAccSourceSystem": "6210",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6220",
+      "Description": "Fyringsolje",
+      "RefAccSourceSystem": "6220",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6230",
+      "Description": "Kull, koks",
+      "RefAccSourceSystem": "6230",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6240",
+      "Description": "Ved",
+      "RefAccSourceSystem": "6240",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6250",
+      "Description": "Bensin, dieselolje",
+      "RefAccSourceSystem": "6250",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6260",
+      "Description": "Vann",
+      "RefAccSourceSystem": "6260",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6290",
+      "Description": "Annet brensel",
+      "RefAccSourceSystem": "6290",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6300",
+      "Description": "Leie lokaler",
+      "RefAccSourceSystem": "6300",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6310",
+      "Description": "Leasingleie av bil",
+      "RefAccSourceSystem": "6310",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6320",
+      "Description": "Renovasjon, vann, avløp mv.",
+      "RefAccSourceSystem": "6320",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6340",
+      "Description": "Lys, varme",
+      "RefAccSourceSystem": "6340",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6360",
+      "Description": "Renhold",
+      "RefAccSourceSystem": "6360",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6390",
+      "Description": "Annen kostnad lokaler",
+      "RefAccSourceSystem": "6390",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6400",
+      "Description": "Leie maskiner",
+      "RefAccSourceSystem": "6400",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6410",
+      "Description": "Leie inventar",
+      "RefAccSourceSystem": "6410",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6420",
+      "Description": "Leie datasystemer",
+      "RefAccSourceSystem": "6420",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6430",
+      "Description": "Leie andre kontormaskiner",
+      "RefAccSourceSystem": "6430",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6440",
+      "Description": "Leie transportmidler",
+      "RefAccSourceSystem": "6440",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6490",
+      "Description": "Annen leiekostnad",
+      "RefAccSourceSystem": "6490",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6500",
+      "Description": "Motordrevet verktøy",
+      "RefAccSourceSystem": "6500",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6510",
+      "Description": "Håndverktøy",
+      "RefAccSourceSystem": "6510",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6520",
+      "Description": "Hjelpeverktøy",
+      "RefAccSourceSystem": "6520",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6530",
+      "Description": "Spesialverktøy",
+      "RefAccSourceSystem": "6530",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6540",
+      "Description": "Inventar",
+      "RefAccSourceSystem": "6540",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6550",
+      "Description": "Driftsmaterialer",
+      "RefAccSourceSystem": "6550",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6560",
+      "Description": "Rekvisita",
+      "RefAccSourceSystem": "6560",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6570",
+      "Description": "Arbeidsklær og verneutstyr",
+      "RefAccSourceSystem": "6570",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6590",
+      "Description": "Annet driftsmateriale",
+      "RefAccSourceSystem": "6590",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6600",
+      "Description": "Reparasjon og vedlikehold bygning",
+      "RefAccSourceSystem": "6600",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6620",
+      "Description": "Reparasjon og vedlikehold utstyr",
+      "RefAccSourceSystem": "6620",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6690",
+      "Description": "Reparasjon og vedlikehold annet",
+      "RefAccSourceSystem": "6690",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6701",
+      "Description": "Revisjonshonorar",
+      "RefAccSourceSystem": "6701",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6702",
+      "Description": "Revisor, honorar for annen bistand",
+      "RefAccSourceSystem": "6702",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6705",
+      "Description": "Regnskapshonorar",
+      "RefAccSourceSystem": "6705",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6720",
+      "Description": "Honorar for øknomisk og juridisk bistand",
+      "RefAccSourceSystem": "6720",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6790",
+      "Description": "Annen fremmed tjeneste",
+      "RefAccSourceSystem": "6790",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6800",
+      "Description": "Kontorrekvisita",
+      "RefAccSourceSystem": "6800",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6820",
+      "Description": "Trykksak",
+      "RefAccSourceSystem": "6820",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6840",
+      "Description": "Aviser, tidsskrifter, bøker mv",
+      "RefAccSourceSystem": "6840",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6860",
+      "Description": "Møte, kurs, oppdatering mv",
+      "RefAccSourceSystem": "6860",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6890",
+      "Description": "Annen kontorkostnad",
+      "RefAccSourceSystem": "6890",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6900",
+      "Description": "Telefon",
+      "RefAccSourceSystem": "6900",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "6940",
+      "Description": "Porto",
+      "RefAccSourceSystem": "6940",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7000",
+      "Description": "Drivstoff transportmidler",
+      "RefAccSourceSystem": "7000",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7020",
+      "Description": "Vedlikehold transportmidler",
+      "RefAccSourceSystem": "7020",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7040",
+      "Description": "Forsikring og avgifter transportmidler",
+      "RefAccSourceSystem": "7040",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7080",
+      "Description": "Bilkostnader, bruk av privat bil i næring",
+      "RefAccSourceSystem": "7080",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7090",
+      "Description": "Annen kostnad transportmidler",
+      "RefAccSourceSystem": "7090",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7098",
+      "Description": "Privat bruk av el. kommunikasjon (kredit)",
+      "RefAccSourceSystem": "7098",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7099",
+      "Description": "Privat bruk av næringsbil  (kredit)",
+      "RefAccSourceSystem": "7099",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7100",
+      "Description": "Bilgodtgjørelse, opplysningspliktig",
+      "RefAccSourceSystem": "7100",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7130",
+      "Description": "Reisekostnad, opplysningspliktig",
+      "RefAccSourceSystem": "7130",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7140",
+      "Description": "Reisekostnad, ikke opplysningspliktig",
+      "RefAccSourceSystem": "7140",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7150",
+      "Description": "Diettkostnad, opplysningspliktig",
+      "RefAccSourceSystem": "7150",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7160",
+      "Description": "Diettkostnad, ikke opplysningspliktig",
+      "RefAccSourceSystem": "7160",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7190",
+      "Description": "Annen kostnadsgodtgjørelse",
+      "RefAccSourceSystem": "7190",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7200",
+      "Description": "Provisjonskostnad, opplysningspliktig",
+      "RefAccSourceSystem": "7200",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7210",
+      "Description": "Provisjonskostnad, ikke opplysningspliktig",
+      "RefAccSourceSystem": "7210",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7300",
+      "Description": "Salgskostnad",
+      "RefAccSourceSystem": "7300",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7320",
+      "Description": "Reklamekostnad",
+      "RefAccSourceSystem": "7320",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7350",
+      "Description": "Representasjon, fradragsberettiget",
+      "RefAccSourceSystem": "7350",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7360",
+      "Description": "Representasjon, ikke fradragsberettiget",
+      "RefAccSourceSystem": "7360",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7390",
+      "Description": "Annen salgskostnad",
+      "RefAccSourceSystem": "7390",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7399",
+      "Description": "Annen salgskostnad, ikke fradragsberettiget",
+      "RefAccSourceSystem": "7399",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7400",
+      "Description": "Kontingent, fradragsberettiget",
+      "RefAccSourceSystem": "7400",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7410",
+      "Description": "Kontingent, ikke fradragsberettiget",
+      "RefAccSourceSystem": "7410",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7420",
+      "Description": "Gave, fradragsberettiget",
+      "RefAccSourceSystem": "7420",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7430",
+      "Description": "Gave, ikke fradragsberettiget",
+      "RefAccSourceSystem": "7430",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7500",
+      "Description": "Forsikringspremie",
+      "RefAccSourceSystem": "7500",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7509",
+      "Description": "Forsikringspremie, ikke fradragsberettiget",
+      "RefAccSourceSystem": "7509",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7550",
+      "Description": "Garantikostnad",
+      "RefAccSourceSystem": "7550",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7560",
+      "Description": "Servicekostnad",
+      "RefAccSourceSystem": "7560",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7600",
+      "Description": "Lisensavgift og royalties",
+      "RefAccSourceSystem": "7600",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7610",
+      "Description": "Patentkostnad ved egen patent",
+      "RefAccSourceSystem": "7610",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7620",
+      "Description": "Kostnad ved varemerker mv.",
+      "RefAccSourceSystem": "7620",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7630",
+      "Description": "Kontroll-, prøve-, og stempelavgift",
+      "RefAccSourceSystem": "7630",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7700",
+      "Description": "Annen kostnad",
+      "RefAccSourceSystem": "7700",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7710",
+      "Description": "Styre- og bedriftsforsamlingsmøte",
+      "RefAccSourceSystem": "7710",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7720",
+      "Description": "Generalforsamling",
+      "RefAccSourceSystem": "7720",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7730",
+      "Description": "Kostnad ved egne aksjer",
+      "RefAccSourceSystem": "7730",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7750",
+      "Description": "Eiendoms- og festeavgift",
+      "RefAccSourceSystem": "7750",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7770",
+      "Description": "Bank og kortgebyr",
+      "RefAccSourceSystem": "7770",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7790",
+      "Description": "Annen kostnad",
+      "RefAccSourceSystem": "7790",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7799",
+      "Description": "Annen kostnad, ikke skattemessig fradragsberetiget",
+      "RefAccSourceSystem": "7799",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7820",
+      "Description": "Innkommet på tidligere nedskrevne fordringer",
+      "RefAccSourceSystem": "7820",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7830",
+      "Description": "Konstatert tap på fordringer",
+      "RefAccSourceSystem": "7830",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7839",
+      "Description": "Endring i avsetning tap på fordringer",
+      "RefAccSourceSystem": "7839",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7860",
+      "Description": "Tap på kontrakter",
+      "RefAccSourceSystem": "7860",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7880",
+      "Description": "Tap ved avgang av immaterielle eiendeler og varige driftsmidler",
+      "RefAccSourceSystem": "7880",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "7885",
+      "Description": "Tap ved avgang av finansielle anleggsmidler",
+      "RefAccSourceSystem": "7885",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8000",
+      "Description": "Inntekt på investering i datterselskap",
+      "RefAccSourceSystem": "8000",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8001",
+      "Description": "Aksjeutbytte fra norske datterselskap",
+      "RefAccSourceSystem": "8001",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8005",
+      "Description": "Aksjeutbytte fra utenlandske datterselskap",
+      "RefAccSourceSystem": "8005",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8009",
+      "Description": "Annen inntekt på investering i datterselskap",
+      "RefAccSourceSystem": "8009",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8010",
+      "Description": "Inntekt på investering i annet foretak i samme konsern",
+      "RefAccSourceSystem": "8010",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8011",
+      "Description": "Aksjeutbytte fra norsk foretak i samme konsern",
+      "RefAccSourceSystem": "8011",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8015",
+      "Description": "Aksjeutbytte fra utenlandsk foretak i samme konsern",
+      "RefAccSourceSystem": "8015",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8019",
+      "Description": "Annen inntekt på investering i annet foretak i samme konsern",
+      "RefAccSourceSystem": "8019",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8020",
+      "Description": "Inntekt på investering i tilknyttet selskap",
+      "RefAccSourceSystem": "8020",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8021",
+      "Description": "Aksjeutbytte fra norsk tilknyttet selskap",
+      "RefAccSourceSystem": "8021",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8025",
+      "Description": "Aksjeutbytte fra utenlandsk tilknyttet selskap",
+      "RefAccSourceSystem": "8025",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8029",
+      "Description": "Annen inntekt på investering i tilknyttet selskap",
+      "RefAccSourceSystem": "8029",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8030",
+      "Description": "Renteinntekt fra foretak i samme konsern",
+      "RefAccSourceSystem": "8030",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8040",
+      "Description": "Renteinntekt, skattefri",
+      "RefAccSourceSystem": "8040",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8049",
+      "Description": "Renteinntekt, tilbakebetalt skatt",
+      "RefAccSourceSystem": "8049",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8050",
+      "Description": "Annen renteinntekt",
+      "RefAccSourceSystem": "8050",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8051",
+      "Description": "Renteinntekt, bankinnskudd",
+      "RefAccSourceSystem": "8051",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8052",
+      "Description": "Renteinntekt, kunder",
+      "RefAccSourceSystem": "8052",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8059",
+      "Description": "Renteinntekt, fra personlig skattyter",
+      "RefAccSourceSystem": "8059",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8060",
+      "Description": "Valutagevinst (agio)",
+      "RefAccSourceSystem": "8060",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8070",
+      "Description": "Annen finansinntekt",
+      "RefAccSourceSystem": "8079",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8071",
+      "Description": "Aksjeutbytte fra norsk foretak",
+      "RefAccSourceSystem": "8071",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8072",
+      "Description": "Aksjeutbytte fra utenlandsk foretak, innenfor fritaksmetoden",
+      "RefAccSourceSystem": "8072",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8073",
+      "Description": "Aksjeutbytte fra utenlandsk foretak, utenfor fritaksmetoden",
+      "RefAccSourceSystem": "8073",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8074",
+      "Description": "Gevinst ved realisasjon av aksjer, egenkapitalbevis og fondsandeler",
+      "RefAccSourceSystem": "8074",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8076",
+      "Description": "Gevinst ved realisasjon av andeler",
+      "RefAccSourceSystem": "8076",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8078",
+      "Description": "Gevinst ved realisasjon av aksjer",
+      "RefAccSourceSystem": "8078",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8079",
+      "Description": "Annen finansinntekt",
+      "RefAccSourceSystem": "8079",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8080",
+      "Description": "Verdiøkning av markedsbaserte finansielle omløpsmidler",
+      "RefAccSourceSystem": "8080",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8081",
+      "Description": "Verdiøkning av markedsbaserte fin. omløpsmidler, urealisert",
+      "RefAccSourceSystem": "8081",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8082",
+      "Description": "Verdiøkning av markedsbaserte fin. omløpsmidler, realisert",
+      "RefAccSourceSystem": "8082",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8090",
+      "Description": "Inntekt av andre investeringer/utbytte",
+      "RefAccSourceSystem": "8090",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8100",
+      "Description": "Verdireduksjon av markedsbaserte finansielle instrumenter",
+      "RefAccSourceSystem": "8100",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8101",
+      "Description": "Verdired. av markedsbaserte fin. instrumenter, urealisert",
+      "RefAccSourceSystem": "8101",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8105",
+      "Description": "Verdired. av markedsbaserte fin. instrumenter, realisert",
+      "RefAccSourceSystem": "8105",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8110",
+      "Description": "Nedskrivning av andre finansielle omløpsmidler",
+      "RefAccSourceSystem": "8110",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8111",
+      "Description": "Nedskrivning av andre kortsiktige fordringer",
+      "RefAccSourceSystem": "8111",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8120",
+      "Description": "Nedskrivning av finansielle anleggsmidler",
+      "RefAccSourceSystem": "8120",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8121",
+      "Description": "Nedskrivning av andre langsiktige fordringer",
+      "RefAccSourceSystem": "8121",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8130",
+      "Description": "Rentekostnad til foretak i samme konsern",
+      "RefAccSourceSystem": "8130",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8140",
+      "Description": "Rentekostnad, ikke fradragsberettiget",
+      "RefAccSourceSystem": "8140",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8149",
+      "Description": "Rentekostnad, på fastsatt skatt",
+      "RefAccSourceSystem": "8149",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8150",
+      "Description": "Annen rentekostnad",
+      "RefAccSourceSystem": "8150",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8151",
+      "Description": "Rentekostnad, banklån",
+      "RefAccSourceSystem": "8151",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8152",
+      "Description": "Rentekostnad, leverandører",
+      "RefAccSourceSystem": "8152",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8159",
+      "Description": "Rentekostnad, til personlig skattyter",
+      "RefAccSourceSystem": "8159",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8160",
+      "Description": "Valutatap (disagio)",
+      "RefAccSourceSystem": "8160",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8170",
+      "Description": "Annen finanskostnad",
+      "RefAccSourceSystem": "8179",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8174",
+      "Description": "Tap ved realisasjon av aksjer, egenkapitalbevis og fondsandeler",
+      "RefAccSourceSystem": "8174",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8176",
+      "Description": "Tap ved realisasjon av andeler",
+      "RefAccSourceSystem": "8176",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8177",
+      "Description": "Andel av underskudd i tilknyttet selskap",
+      "RefAccSourceSystem": "8177",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8178",
+      "Description": "Tap ved realisasjon av aksjer",
+      "RefAccSourceSystem": "8178",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8179",
+      "Description": "Annen finanskostnad",
+      "RefAccSourceSystem": "8179",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8300",
+      "Description": "Betalbar skatt, ordinær",
+      "RefAccSourceSystem": "8300",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8320",
+      "Description": "Endring utsatt skatt, ordinær",
+      "RefAccSourceSystem": "8320",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8400",
+      "Description": "Ekstraordinær inntekt",
+      "RefAccSourceSystem": "8400",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8409",
+      "Description": "Ekstraordinær inntekt, skattefri",
+      "RefAccSourceSystem": "8409",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8500",
+      "Description": "Ekstraordinær kostnad",
+      "RefAccSourceSystem": "8500",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8509",
+      "Description": "Ekstraordinær kostnad ikke skattem. fradragsberetiget",
+      "RefAccSourceSystem": "8509",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8600",
+      "Description": "Betalbar skatt, ekstraordinær",
+      "RefAccSourceSystem": "8600",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8620",
+      "Description": "Endring utsatt skatt, ekstraordinær",
+      "RefAccSourceSystem": "8620",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8900",
+      "Description": "Overføringer til/fra fond",
+      "RefAccSourceSystem": "8900",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8910",
+      "Description": "Overføringer felleseid andelskapital for samvirke",
+      "RefAccSourceSystem": "8910",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8920",
+      "Description": "Avsatt utbytte / renter grunnfondsbevis",
+      "RefAccSourceSystem": "8920",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8922",
+      "Description": "Avsatt tilleggsutbytte",
+      "RefAccSourceSystem": "8922",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8923",
+      "Description": "Avsatt ekstraordinært utbytte",
+      "RefAccSourceSystem": "8923",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8930",
+      "Description": "Konsernbidrag",
+      "RefAccSourceSystem": "8930",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8950",
+      "Description": "Fondsemisjon",
+      "RefAccSourceSystem": "8950",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8960",
+      "Description": "Overføringer annen egenkapital",
+      "RefAccSourceSystem": "8960",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8980",
+      "Description": "Uttak (enkeltpersonforetak/deltakerfastsatt selskap)",
+      "RefAccSourceSystem": "8980",
+      "RefAccPeriodYear": ""
+    },
+    {
+      "AccountProperties": {},
+      "AccNo": "8990",
+      "Description": "Udekket tap",
+      "RefAccSourceSystem": "8990",
+      "RefAccPeriodYear": ""
+    }
+  ]
+}

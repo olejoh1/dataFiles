@@ -1,0 +1,436 @@
+[
+  {
+    "TrialBalanceProperties": {},
+    "Balances": [
+      {
+        "AccountProperties": {},
+        "AccNo": "1100",
+        "Balance": 1556908.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1280",
+        "Balance": 211677.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1380",
+        "Balance": 483855.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1460",
+        "Balance": 575000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1469",
+        "Balance": -75000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1500",
+        "Balance": 685000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1580",
+        "Balance": -39000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1810",
+        "Balance": 100000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1920",
+        "Balance": 501560.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2000",
+        "Balance": -100000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2050",
+        "Balance": -608800.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2120",
+        "Balance": -217825.00001
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2240",
+        "Balance": -1724269.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2380",
+        "Balance": -75000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2400",
+        "Balance": -75041.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2500",
+        "Balance": -250605.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2600",
+        "Balance": -125000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2740",
+        "Balance": -35000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2770",
+        "Balance": -25000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2940",
+        "Balance": -95000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2950",
+        "Balance": -7500.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2980",
+        "Balance": -69445.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2987",
+        "Balance": -517626.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2990",
+        "Balance": -23889.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "3000",
+        "Balance": -4600000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "3600",
+        "Balance": -800000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "4300",
+        "Balance": 3172681.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "4390",
+        "Balance": 75000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "5000",
+        "Balance": 1297260.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "5420",
+        "Balance": 20000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "5800",
+        "Balance": -50000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "6701",
+        "Balance": 17034.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7410",
+        "Balance": 8000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7550",
+        "Balance": 99444.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7700",
+        "Balance": 534164.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7799",
+        "Balance": 5000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7830",
+        "Balance": 8000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7839",
+        "Balance": 19000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8051",
+        "Balance": -15010.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8071",
+        "Balance": -10000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8151",
+        "Balance": 27500.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "6000",
+        "Balance": 43000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "6010",
+        "Balance": 23000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8320",
+        "Balance": -222175.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8300",
+        "Balance": 248102.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8960",
+        "Balance": 50000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2800",
+        "Balance": -50000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8920",
+        "Balance": 50000.0
+      }
+    ],
+    "Period": 12,
+    "Year": 2019
+  },
+  {
+    "TrialBalanceProperties": {},
+    "Balances": [
+      {
+        "AccountProperties": {},
+        "AccNo": "1100",
+        "Balance": 1599908.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1280",
+        "Balance": 64092.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1380",
+        "Balance": 1070000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1460",
+        "Balance": 575000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1500",
+        "Balance": 535000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1580",
+        "Balance": -20000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "1920",
+        "Balance": 676000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2000",
+        "Balance": -100000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2050",
+        "Balance": -558800.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2120",
+        "Balance": -440000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2240",
+        "Balance": -2365743.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2400",
+        "Balance": -130516.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2500",
+        "Balance": -217940.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2600",
+        "Balance": -175000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2740",
+        "Balance": -25000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2770",
+        "Balance": -15000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2800",
+        "Balance": -300000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2940",
+        "Balance": -90000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2950",
+        "Balance": -10000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2980",
+        "Balance": -26034.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "2987",
+        "Balance": -45967.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "3000",
+        "Balance": -3100000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "3600",
+        "Balance": -650000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "4300",
+        "Balance": 1656000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "5000",
+        "Balance": 720000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "6000",
+        "Balance": 73000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "6010",
+        "Balance": 23000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7550",
+        "Balance": 556.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7700",
+        "Balance": 154854.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "7830",
+        "Balance": 5150.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8051",
+        "Balance": -8000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8071",
+        "Balance": -2000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8151",
+        "Balance": 20000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8300",
+        "Balance": 307440.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8920",
+        "Balance": 300000.0
+      },
+      {
+        "AccountProperties": {},
+        "AccNo": "8960",
+        "Balance": 500000.0
+      }
+    ],
+    "Period": 12,
+    "Year": 2018
+  }
+]
